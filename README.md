@@ -1,6 +1,6 @@
 # Inventory system
 
-I am currently writing a book for this project. 
+Book is in progress...
 
 This is based on nodejs typescript and .net 8 MVC with HTTP Client SDK.
 
